@@ -1,0 +1,35 @@
+D:\FoxRabbit\FoxRabbit\bin\x86\Debug\FoxRabbit.exe.config
+D:\FoxRabbit\FoxRabbit\bin\x86\Debug\FoxRabbit.exe
+D:\FoxRabbit\FoxRabbit\bin\x86\Debug\FoxRabbit.pdb
+D:\FoxRabbit\FoxRabbit\bin\x86\Debug\ZedGraph.dll
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.AboutForm.resources
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.MainForm.resources
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.MenuForm.resources
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.Properties.Resources.resources
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.ShowGraphsForm.resources
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.csproj.GenerateResource.Cache
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.exe
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.pdb
+D:\FoxRabbit\FoxRabbit\bin\x86\Debug\FoxRabbit.exe.manifest
+D:\FoxRabbit\FoxRabbit\bin\x86\Debug\FoxRabbit.application
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.TrustInfo.xml
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.exe.manifest
+D:\FoxRabbit\FoxRabbit\obj\x86\Debug\FoxRabbit.application
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.exe
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.pdb
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\bin\x86\Debug\FoxRabbit.exe.manifest
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\bin\x86\Debug\FoxRabbit.application
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\bin\x86\Debug\FoxRabbit.exe
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\bin\x86\Debug\FoxRabbit.pdb
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\bin\x86\Debug\ZedGraph.dll
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.AboutForm.resources
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.MainForm.resources
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.MenuForm.resources
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.Properties.Resources.resources
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.ShowGraphsForm.resources
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.csproj.GenerateResource.Cache
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.TrustInfo.xml
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.exe.manifest
+D:\Education\Darsi\Expert System\FoxRabbit\Source Code\FoxRabbit\obj\x86\Debug\FoxRabbit.application
